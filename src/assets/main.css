@@ -86,6 +86,12 @@ section {
 }
 
 
+.about-photo {
+  width: 450px;
+  height: 450px;
+}
+
+
 .profile-pic {
   width: 450px;
   height: 450px;
@@ -171,4 +177,91 @@ section {
   border-color: #d53f41;
   box-shadow: 0 6px 14px rgba(213, 63, 65, 0.6);
   transform: translateY(-3px);
+}
+
+
+
+.about-section {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.section-title {
+  font-size: 43px;
+  color: #D53F41;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.section-title::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 4px;
+  background-color: #D53F41;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+.about-content {
+  margin: 0 auto;
+  text-align: left;
+  padding: 0 20px;
+}
+
+.about-text p {
+  font-size: 25px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.about-text strong {
+  color: #D53F41;
+}
+
+.motto {
+  font-style: italic;
+  color: #D53F41;
+  margin-top: 50px;
+  margin-bottom: 90px;
+  font-size: 24px;
+  border-left: 4px solid #D53F41;
+  padding-left: 15px;
+}
+
+h3 {
+  font-size: 32px;
+  color: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.timeline,
+.skills {
+  list-style: none;
+  padding-left: 0;
+}
+
+.skills-title {
+  margin-top: 80px;
+}
+
+.timeline li,
+.skills li {
+  font-size: 22px;
+  margin-bottom: 10px;
+  padding-left: 1.2em;
+  position: relative;
+}
+
+.timeline li::before,
+.skills li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #D53F41;
+  font-size: 1.2em;
+  line-height: 1;
 }
