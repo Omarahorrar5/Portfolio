@@ -1,0 +1,53 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+
+.background {
+  min-height: 100vh;
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #0f0f0f; /* deep black */
+  padding: 0.8rem 2rem;
+  font-family: 'Poppins', sans-serif;
+  border-bottom: 1px solid #1a1a1a;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+  margin-right: 2rem;
+}
+
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+  margin-left: 2rem;
+}
+
+.nav-links a {
+  color: #CC3639;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #ffffff;
+}
