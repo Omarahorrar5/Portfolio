@@ -10,7 +10,7 @@
           I love learning new technologies, building real-world projects, and solving problems that create value.
         </p>
         <p>
-          I’m currently focused on full-stack web development and DevOps concepts
+          I'm currently focused on full-stack web development and DevOps concepts.
         </p>
         <blockquote class="motto">"Turning complexity into simplicity through code."</blockquote>
 
@@ -19,7 +19,7 @@
         <ul class="timeline">
           <li><strong>2023:</strong> Classes Préparatoires, solid math/physics foundation</li>
           <li><strong>2024:</strong> Started Cloud & IoT Engineering at INPT, Rabat</li>
-          <li><strong>2025:</strong> National competitions, Full-stack internship</li>
+          <li><strong>2025:</strong> National Hackathons, Full-stack internship</li>
         </ul>
 
 
@@ -27,7 +27,7 @@
         <ul class="skills">
           <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Vue.js</li>
           <li><strong>Backend:</strong> Node.js, Express, MySQL, PostgreSQL</li>
-          <li><strong>Other technologies:</strong> Arduino, Sensors, Linux </li>
+          <li><strong>Other technologies:</strong> Arduino, Sensors, Linux</li>
         </ul>
 
       </div>
