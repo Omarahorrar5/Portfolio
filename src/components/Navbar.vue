@@ -1,6 +1,8 @@
 <template>
   <nav class="navbar">
-    <img :src="require('@/assets/logo.png')" alt="Logo" class="logo" />
+    <a href="#hero">
+      <img :src="require('@/assets/logo.png')" alt="Logo" class="logo" />
+    </a>
     <div class="nav-links">
       <a href="#hero">Home</a>
       <a href="#about">About</a>
