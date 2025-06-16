@@ -3,6 +3,8 @@
     <Navbar />
     <section id="hero"><HeroSection /></section>
     <section id="about"><AboutSection /></section>
+    <section id="contact"><ContactSection /></section>
+    <Footer />
   </div>
 </template>
 
@@ -11,5 +13,7 @@
 import Navbar from './components/Navbar.vue'
 import HeroSection from './components/HeroSection.vue'
 import AboutSection from './components/AboutSection.vue'
+import ContactSection from './components/ContactSection.vue';
+import Footer from './components/Footer.vue';
 </script>
 

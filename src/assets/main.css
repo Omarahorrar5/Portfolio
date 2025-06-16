@@ -181,6 +181,15 @@ section {
 
 
 
+
+
+
+
+
+
+
+
+
 .about-section {
   background-color: #000000;
   color: #ffffff;
@@ -264,4 +273,105 @@ h3 {
   color: #D53F41;
   font-size: 1.2em;
   line-height: 1;
+}
+
+
+
+
+
+
+
+
+
+.contact-section {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  margin-top: -200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+.section-title {
+  font-size: 43px;
+  color: #D53F41;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.section-title::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 4px;
+  background-color: #D53F41;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+.contact-text {
+  font-size: 25px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  max-width: 600px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  font-size: 36px;
+}
+
+
+
+
+
+
+.social-links a {
+  font-size: 32px;
+  transition: transform 0.3s;
+}
+
+.social-links a:hover {
+  color: #a12f32;
+  transform: scale(1.2);
+}
+
+.email {
+  color: #c4b4b4; /* Your theme red */
+}
+
+.github {
+  color: #332828; /* GitHub black */
+}
+
+.linkedin {
+  color: #0077B5; /* LinkedIn blue */
+}
+
+.facebook {
+  color: #1877F2; /* Facebook blue */
+}
+
+.instagram {
+  color: #E1306C; /* Instagram pink */
+}
+
+
+
+
+
+
+
+
+
+.footer {
+  background-color: #111;
+  color: #aaa;
+  text-align: center;
+  padding: 5px 10px;
+  margin-top: 60px;
 }

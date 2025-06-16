@@ -7,7 +7,7 @@
       <div class="about-text">
         <p>
           I'm <strong>Omar Ahorrar</strong>, a dedicated Cloud & DevOps Engineering student with a strong passion for web development.
-          <p>I love learning new technologies, building real-world projects, and solving problems that create value.</p>
+          I love learning new technologies, building real-world projects, and solving problems that create value.
         </p>
         <p>
           I’m currently focused on full-stack web development and DevOps concepts
