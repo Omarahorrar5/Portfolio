@@ -10,7 +10,7 @@
         <a href="#about" class="aboutme-btn">About me</a>
         <a href="/CV_Omar_AHORRAR.pdf" download class="cv-btn">Download CV &#8594;</a>
     </div>
-    </div class="profile-wrapper">
+  </div class="profile-wrapper">
     <img src="@/assets/me.png" class="profile-pic" />
   </div>
 </template>
