@@ -10,16 +10,25 @@
           I love learning new technologies, building real-world projects, and solving problems that create value.
         </p>
         <p>
-          I'm currently focused on full-stack web development and DevOps concepts.
+          I'm currently focused on full-stack web development and Cloud/DevOps concepts.
         </p>
         <blockquote class="motto">"Turning complexity into simplicity through code."</blockquote>
 
 
         <h3>🎓 Education Journey</h3>
         <ul class="timeline">
-          <li><strong>2023:</strong> Classes Préparatoires, solid math/physics foundation</li>
-          <li><strong>2024:</strong> Started Cloud & IoT Engineering at INPT, Rabat</li>
-          <li><strong>2025:</strong> National Hackathons, Full-stack internship</li>
+          <li>
+            <strong>2025:</strong> Participated in national-level hackathons, showcasing innovative solutions; completed a full-stack development internship, gaining hands-on experience in building scalable web applications.
+          </li>
+          <li>
+            <strong>2024:</strong> Began engineering studies in Cloud & IoT Systems at INPT in Rabat, focusing on distributed systems, cloud architecture, and IoT integration.
+          </li>
+          <li>
+            <strong>2023:</strong> Completed two intensive years of Classes Préparatoires, developing a strong analytical mindset and deep foundations in mathematics, physics, and problem-solving.
+          </li>
+          <li>
+            <strong>2022:</strong> Earned a Baccalaureate in Mathematical Sciences with honors, marking the beginning of a technical and academic journey in STEM fields.
+          </li>
         </ul>
 
 
