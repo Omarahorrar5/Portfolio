@@ -13,6 +13,7 @@
     <div :class="['nav-links', { open: isOpen }]">
       <a href="#hero" @click="closeMenu">Home</a>
       <a href="#about" @click="closeMenu">About</a>
+      <a href="#projects" @click="closeMenu">Projects</a>
       <a href="#contact" @click="closeMenu">Contact</a>
     </div>
   </nav>
