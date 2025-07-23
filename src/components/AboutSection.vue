@@ -47,3 +47,104 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.about-section {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.about-content {
+  margin: 0 auto;
+  text-align: left;
+  padding: 0 20px;
+}
+
+.about-text p {
+  font-size: 25px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.about-text strong {
+  color: #D53F41;
+}
+
+.motto {
+  font-style: italic;
+  color: #D53F41;
+  margin-top: 50px;
+  margin-bottom: 90px;
+  font-size: 24px;
+  border-left: 4px solid #D53F41;
+  padding-left: 15px;
+}
+
+h3 {
+  font-size: 32px;
+  color: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.timeline,
+.skills {
+  list-style: none;
+  padding-left: 0;
+}
+
+.skills-title {
+  margin-top: 80px;
+}
+
+.timeline li,
+.skills li {
+  font-size: 22px;
+  margin-bottom: 26px;
+  padding-left: 1.2em;
+  position: relative;
+}
+
+.timeline li::before,
+.skills li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #D53F41;
+  font-size: 1.2em;
+  line-height: 1;
+}
+
+/* Media Queries for AboutSection */
+@media (max-width: 1024px) {
+  .about-text p {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    padding: 1rem;
+  }
+
+  .about-text p {
+    font-size: 18px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  .timeline li,
+  .skills li {
+    font-size: 18px;
+  }
+
+  .motto {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+}
+</style>
