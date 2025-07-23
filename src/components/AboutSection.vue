@@ -34,9 +34,13 @@
 
         <h3 class="skills-title">⚙️ Skills</h3>
         <ul class="skills">
-          <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Vue.js</li>
-          <li><strong>Backend:</strong> Node.js, Express, MySQL, PostgreSQL</li>
-          <li><strong>Other technologies:</strong> Arduino, Sensors, Linux</li>
+          <li><strong>Frontend:</strong> HTML, CSS, TailwindCSS, JavaScript, Vue.js</li>
+          <li><strong>Backend:</strong> Node.js, Express, Laravel, MySQL, PostgreSQL</li>
+          <li><strong>Programming Languages:</strong> Python, C, C++, JavaScript, PHP</li>
+          <li><strong>Concepts:</strong> Object-Oriented Programming (OOP), Networking, UML</li>
+          <li><strong>Tools & Platforms:</strong> Git, GitHub, Docker</li>
+          <li><strong>Operating Systems:</strong> Linux (Ubuntu, Kali), Windows</li>
+          <li><strong>Hardware & Embedded:</strong> Arduino, ESP32</li>
         </ul>
 
       </div>
